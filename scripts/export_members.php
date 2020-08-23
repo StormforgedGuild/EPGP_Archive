@@ -13,7 +13,6 @@ if ($dbconnect->connect_error) {
 }
 
 // run query
-//$query = "SELECT * FROM stormforged.eqdkp23_member_points INNER JOIN stormforged.eqdkp23_members USING (member_id);";
 $query = "SELECT * FROM stormforged.eqdkp23_members;";
 
 $result = mysqli_query($dbconnect, $query)
@@ -23,7 +22,7 @@ $result = mysqli_query($dbconnect, $query)
 $myfile = fopen("..\data\members.txt", "w") or die("Unable to open file!");
 //fwrite($myfile, $TOKEN);
 
-$header = "Name, Priority Rating, Effort Points, Gear Points\n";
+$header = "Name, Class, Priority Rating, Effort Points, Gear Points\n";
 echo $header; 
 fwrite($myfile, $header);
 
@@ -36,7 +35,43 @@ if ($result->num_rows > 0) {
       $earned = $pointsArray[1][0];
       $spent = $pointsArray[1][1] + 2000;
       $pr = $earned/$spent;
-      $output = $row["member_name"]. ", " .number_format($pr,2,'.',''). ", " . number_format($earned,2,'.',''). ", " . number_format($spent,2,'.','')."\n";
+
+      //deserialize the profile
+      $profileArray = json_decode($row["profiledata"], true);
+      $classID = $profileArray["class"];
+      $class = "Unknown";
+
+      switch ($classID) {
+        case 2:
+            $class = "Druid";
+            break;
+        case 3:
+            $class = "Hunter";
+            break;
+        case 4:
+            $class = "Mage";
+            break;
+        case 5:
+            $class = "Paladin";
+            break;
+        case 6:
+            $class = "Priest";
+            break;
+        case 7:
+            $class = "Rogue";
+            break;            
+        case 8:
+           $class = "Shaman";
+            break;
+        case 9:
+            $class = "Warlock";
+            break;
+        case 10:
+             $class = "Warrior";
+            break;          
+       }
+
+      $output = $row["member_name"]. ", ". $class. ", " .number_format($pr,2,'.',''). ", " . number_format($earned,2,'.',''). ", " . number_format($spent,2,'.','')."\n";
       echo $output;
       fwrite($myfile, $output);
     }

@@ -1,0 +1,524 @@
+Date, Buyer, Name, Raid, Value
+07/23/20, Seastar, Dragonstalker's Bracers, BWL, 1000.00
+07/23/20, pug, Nemesis Bracers, BWL, 0.00
+07/23/20, disenchanted, Gloves of Rapid Evolution, BWL, 0.00
+07/23/20, bank, Elementium Ore, BWL, 0.00
+07/23/20, disenchanted, Pendant of the Fallen Dragon, BWL, 0.00
+07/23/20, momofhatred, Belt of Transcendence, BWL, 1000.00
+07/23/20, disenchanted, Nemesis Belt, BWL, 0.00
+07/23/20, Profblix, Bracers of Arcane Accuracy, BWL, 2000.00
+07/23/20, Likalize, Bloodfang Boots, BWL, 1000.00
+07/23/20, Helservent, Nemesis Boots, BWL, 1000.00
+07/23/20, bank, Elementium Ore, BWL, 0.00
+07/23/20, Helservent, Shadow Wing Focus Staff, BWL, 1000.00
+07/23/20, Timecrisis, Claw of the Black Drake, BWL, 2000.00
+07/23/20, bank, Elementium Ore, BWL, 0.00
+07/23/20, Swordfish, Doom's Edge, BWL, 4000.00
+07/23/20, Quack, Essence Gatherer, BWL, 2000.00
+07/23/20, bank, Elementium Ore, BWL, 0.00
+07/23/20, Zappem, Ring of Blackrock, BWL, 500.00
+07/23/20, Cuckinducks, Malfurion's Blessed Bulwark, BWL, 2500.00
+07/23/20, Queekadin, Judgement Gauntlets, BWL, 1000.00
+07/23/20, Treziques, Emberweave Leggings, BWL, 313.00
+07/23/20, Joeyson, Ashjre'thul, Crossbow of Smiting, BWL, 8000.00
+07/23/20, Superb, Empowered Leggings, BWL, 5000.00
+07/23/20, pug, Nemesis Spaulders, BWL, 0.00
+07/23/20, Sigok, Bloodfang Spaulders, BWL, 1000.00
+07/23/20, Profblix, Cloak of the Brood Lord, BWL, 2000.00
+07/23/20, Joeyson, Dragonstalker's Breastplate, BWL, 2500.00
+07/23/20, Britney, Bloodfang Chestpiece, BWL, 2500.00
+07/23/20, Cuckinducks, Head of Nefarian, BWL, 1875.00
+07/23/20, Rivella, Ashkandi, Greatsword of the Brotherhood, BWL, 4000.00
+07/25/20, Moncha, The Untamed Blade, BWL, 4000.00
+07/25/20, disenchanted, Netherwind Bindings, BWL, 1000.00
+07/25/20, Mariahcarry, Netherwind Bindings, BWL, 1000.00
+07/25/20, disenchanted, Dragonstalker's Belt, BWL, 1000.00
+07/25/20, disenchanted, Pendant of the Fallen Dragon, BWL, 500.00
+07/25/20, disenchanted, Waistband of Wrath, BWL, 1000.00
+07/25/20, disenchanted, Nemesis Boots, BWL, 1000.00
+07/25/20, Mariahcarry, Netherwind Boots, BWL, 1000.00
+07/25/20, Mariahcarry, Bracers of Arcane Accuracy, BWL, 2000.00
+07/25/20, disenchanted, Band of Dark Dominion, BWL, 1000.00
+07/25/20, Pintang, Judgement Gauntlets, BWL, 250.00
+07/25/20, Ambicatus, Cloak of Firemaw, BWL, 1500.00
+07/25/20, bank, Elementium Ore, BWL, 0.00
+07/25/20, bank, Elementium Ore, BWL, 0.00
+07/25/20, disenchanted, Stormrage Handguards, BWL, 1000.00
+07/25/20, disenchanted, Stormrage Handguards, BWL, 1000.00
+07/25/20, disenchanted, Aegis of Preservation, BWL, 375.00
+07/25/20, disenchanted, Taut Dragonhide Shoulderpads, BWL, 2000.00
+07/25/20, disenchanted, Netherwind Mantle, BWL, 1000.00
+07/25/20, Babybucket, Elementium Threaded Cloak, BWL, 375.00
+07/25/20, disenchanted, Dragonstalker's Spaulders, BWL, 1000.00
+07/25/20, disenchanted, Dragonstalker's Breastplate, BWL, 0.00
+07/25/20, disenchanted, Nemesis Robes, BWL, 0.00
+07/25/20, Tessberra, Cloak of the Brood Lord, BWL, 2000.00
+07/25/20, disenchanted, Therazane's Link, BWL, 0.00
+07/25/20, Hokee, Head of Nefarian, BWL, 1875.00
+07/25/20, Ascindia, Shroud of Pure Thought, BWL, 250.00
+07/25/20, Ascindia, Choker of Enlightenment, MC , 125.00
+07/25/20, Smexyropman, Wristguards of Stability, MC , 1000.00
+07/25/20, disenchanted, Magma Tempered Boots, MC , 500.00
+07/25/20, disenchanted, Felheart Pants, MC , 625.00
+07/25/20, disenchanted, Lawbringer Legplates, MC , 625.00
+07/25/20, bank, Felheart Belt, MC , 500.00
+07/25/20, Noblewarlord, Nightslayer Gloves, MC , 500.00
+07/25/20, disenchanted, Sabatons of Might, MC , 500.00
+07/25/20, disenchanted, Circlet of Prophecy, MC , 625.00
+07/25/20, Cuckinducks, Drillborer Disk, MC , 562.00
+07/25/20, disenchanted, Aurastone Hammer, MC , 1000.00
+07/25/20, disenchanted, Fire Runed Grimoire, MC , 250.00
+07/25/20, disenchanted, Seal of the Archmagus, MC , 0.00
+07/25/20, disenchanted, Boots of Prophecy, MC , 500.00
+07/25/20, disenchanted, Arcanist Gloves, MC , 500.00
+07/25/20, bank, Arcanist Belt, MC , 500.00
+07/25/20, bank, Nightslayer Belt, MC , 500.00
+07/25/20, disenchanted, Giantstalker's Epaulets, MC , 500.00
+07/25/20, disenchanted, Pauldrons of Might, MC , 500.00
+07/25/20, disenchanted, Felheart Robes, MC , 625.00
+07/25/20, bank, Sulfuron Ingot, MC , 0.00
+07/25/20, disenchanted, Ancient Petrified Leaf, MC , 0.00
+07/25/20, Queekadin, Fireproof Cloak, MC , 125.00
+07/25/20, disenchanted, Sash of Whispered Secrets, MC , 500.00
+07/25/20, disenchanted, Band of Sulfuras, MC , 0.00
+07/25/20, disenchanted, Malistar's Defender, MC , 0.00
+07/25/20, Groundnpound, Judgement Legplates, MC , 468.00
+07/25/20, IROC, Spinal Reaper, MC , 250.00
+07/25/20, disenchanted, Dragonstalker's Legguards, MC , 0.00
+07/30/20, Queekadin, Judgement Bindings, BWL, 1000.00
+07/30/20, Utu, Netherwind Bindings, BWL, 1000.00
+07/30/20, Wetspells, Netherwind Belt, BWL, 1000.00
+07/30/20, disenchanted, Dragonstalker's Belt, BWL, 1000.00
+07/30/20, Utu, Mind Quickening Gem, BWL, 3000.00
+07/30/20, Queekadin, Judgement Sabatons, BWL, 1000.00
+07/30/20, momofhatred, Boots of Transcendence, BWL, 1000.00
+07/30/20, Wetspells, Bracers of Arcane Accuracy, BWL, 2000.00
+07/30/20, Sokka, Head of the Broodlord Lashlayer, BWL, 0.00
+07/30/20, Groundnpound, Scrolls of Blinding Light, BWL, 375.00
+07/30/20, Wetspells, Netherwind Gloves, BWL, 1000.00
+07/30/20, bank, Elementium Ore, BWL, 0.00
+07/30/20, bank, Elementium Ore, BWL, 0.00
+07/30/20, bank, Elementium Ore, BWL, 0.00
+07/30/20, bank, Elementium Ore, BWL, 0.00
+07/30/20, disenchanted, Interlaced Shadow Jerkin, BWL, 625.00
+07/30/20, Rooke, Drake Talon Cleaver, BWL, 250.00
+07/30/20, disenchanted, Ebony Flame Gloves, BWL, 2000.00
+07/30/20, disenchanted, Herald of Woe, BWL, 125.00
+07/30/20, momofhatred, Handguards of Transcendence, BWL, 1000.00
+07/30/20, Zappem, Judgement Spaulders, BWL, 1000.00
+07/30/20, Jaklar, Chromatically Tempered Sword, BWL, 8000.00
+07/30/20, Swordfish, Ashjre'thul, Crossbow of Smiting, BWL, 8000.00
+07/30/20, disenchanted, Judgement Spaulders, BWL, 1000.00
+07/30/20, Utu, Cloak of the Brood Lord, BWL, 2000.00
+07/30/20, Manazu, Head of Nefarian, BWL, 1875.00
+07/30/20, Sigok, Bloodfang Chestpiece, BWL, 2500.00
+07/30/20, Likalize, Bloodfang Chestpiece, BWL, 2500.00
+07/30/20, Hokei, Pure Elementium Band, BWL, 4000.00
+07/30/20, Timecrisis, The Untamed Blade, BWL, 1000.00
+07/30/20, disenchanted, Felheart Gloves, MC , 0.00
+07/30/20, disenchanted, Cenarion Boots, MC , 0.00
+07/30/20, Magicjay, Medallion of Steadfast Might, MC , 500.00
+07/30/20, disenchanted, Flamewaker Legplates, MC , 0.00
+07/30/20, disenchanted, Felheart Pants, MC , 0.00
+07/30/20, Arthalter, Sabatons of Might, MC , 125.00
+07/30/20, disenchanted, Nightslayer Gloves, MC , 0.00
+07/30/20, bank, Nightslayer Belt, MC , 500.00
+07/30/20, Arthalter, Quick Strike Ring, MC , 3000.00
+07/30/20, disenchanted, Cenarion Helm, MC , 0.00
+07/30/20, Sigok, Gutgore Ripper, MC , 1500.00
+07/30/20, Manithree, Fire Runed Grimoire, MC , 250.00
+07/30/20, Magicjay, Seal of the Archmagus, MC , 125.00
+07/30/20, bank, Bracers of Might, MC , 0.00
+07/30/20, disenchanted, Arcanist Gloves, MC , 0.00
+07/30/20, Dontqqme, Nightslayer Boots, MC , 500.00
+07/30/20, bank, Bracers of Might, MC , 0.00
+07/30/20, Manithree, Mantle of Prophecy, MC , 500.00
+07/30/20, disenchanted, Nightslayer Shoulder Pads, MC , 0.00
+07/30/20, Queekadin, Lawbringer Chestguard, MC , 125.00
+07/30/20, Dontqqme, Nightslayer Chestpiece, MC , 500.00
+07/30/20, bank, Sulfuron Ingot, MC , 0.00
+07/30/20, Magicjay, Fire Runed Grimoire, MC , 250.00
+07/30/20, Magicjay, Wild Growth Spaulders, MC , 2000.00
+07/30/20, Hokei, Fireguard Shoulders, MC , 125.00
+07/30/20, disenchanted, Ancient Petrified Leaf, MC , 0.00
+07/30/20, bank, Giantstalker's Bracers, MC , 0.00
+07/30/20, bank, Felheart Belt, MC , 0.00
+07/30/20, bank, Giantstalker's Bracers, MC , 0.00
+07/30/20, disenchanted, Nemesis Leggings, MC , 0.00
+07/30/20, Groundnpound, Essence of the Pure Flame, MC , 93.75
+07/30/20, Realfriendz, Band of Accuria, MC , 3000.00
+07/30/20, Joeyson, Dragonstalker's Legguards, MC , 1875.00
+08/01/20, disenchanted, Bracelets of Wrath, BWL, 1000.00
+08/01/20, Astranis, Arcane Infused Gem, BWL, 375.00
+08/01/20, disenchanted, Judgement Bindings, BWL, 1000.00
+08/01/20, disenchanted, Pendant of the Fallen Dragon, BWL, 500.00
+08/01/20, Mcdoobler, Belt of Transcendence, BWL, 1000.00
+08/01/20, disenchanted, Nemesis Belt, BWL, 1000.00
+08/01/20, Hamerhand, Lifegiving Gem, BWL, 3000.00
+08/01/20, Tessberra, Boots of Transcendence, BWL, 250.00
+08/01/20, disenchanted, Nemesis Boots, BWL, 1000.00
+08/01/20, bank, Elementium Ore, BWL, 0.00
+08/01/20, bank, Elementium Ore, BWL, 0.00
+08/01/20, Mcdoobler, Head of the Broodlord Lashlayer, BWL, 0.00
+08/01/20, Maulpaw, Stormrage Handguards, BWL, 1000.00
+08/01/20, Heyman, Black Ash Robe, BWL, 0.00
+08/01/20, Hamerhand, Draconic Avenger, BWL, 125.00
+08/01/20, bank, Elementium Ore, BWL, 0.00
+08/01/20, bank, Elementium Ore, BWL, 0.00
+08/01/20, bank, Elementium Ore, BWL, 0.00
+08/01/20, disenchanted, Elementium Ore, BWL, 0.00
+08/01/20, Scrapper, Dragonbreath Hand Cannon, BWL, 1500.00
+08/01/20, Morhion, Gauntlets of Wrath, BWL, 250.00
+08/01/20, disenchanted, Dragon's Touch, BWL, 250.00
+08/01/20, Arivas, Drake Talon Pauldrons, BWL, 2000.00
+08/01/20, disenchanted, Dragonstalker's Spaulders, BWL, 1000.00
+08/01/20, Moncha, Pauldrons of Wrath, BWL, 250.00
+08/01/20, disenchanted, Elementium Threaded Cloak, BWL, 1500.00
+08/01/20, Morhion, Chromatic Boots, BWL, 4000.00
+08/01/20, disenchanted, Breastplate of Wrath, BWL, 2500.00
+08/01/20, Tessberra, Head of Nefarian, BWL, 1875.00
+08/01/20, Noblewarlord, Bloodfang Chestpiece, BWL, 2500.00
+08/01/20, Poulz, Pure Elementium Band, BWL, 4000.00
+08/01/20, Tessberra, Lok'amir il Romathis, BWL, 8000.00
+08/01/20, Atake, Girdle of Prophecy, MC , 500.00
+08/01/20, Cuckinducks, Gauntlets of Might, MC , 125.00
+08/01/20, Imadude, Arcanist Boots, MC , 500.00
+08/01/20, disenchanted, Giantstalker's Leggings, MC , 625.00
+08/01/20, Imadude, Arcanist Leggings, MC , 625.00
+08/01/20, Noblewarlord, Aged Core Leather Gloves, MC , 1500.00
+08/01/20, disenchanted, Sorcerous Dagger, MC , 250.00
+08/01/20, Poulz, Lawbringer Gauntlets, MC , 125.00
+08/01/20, bank, Felheart Bracers, MC , 500.00
+08/01/20, bank, Belt of Might, MC , 500.00
+08/01/20, Atake, Circlet of Prophecy, MC , 625.00
+08/01/20, disenchanted, Giantstalker's Helmet, MC , 625.00
+08/01/20, disenchanted, Magma Tempered Boots, MC , 500.00
+08/01/20, bank, Giantstalker's Bracers, MC , 500.00
+08/01/20, Imadude, Arcanist Mantle, MC , 500.00
+08/01/20, disenchanted, Lawbringer Spaulders, MC , 500.00
+08/01/20, Maulpaw, Cenarion Gloves, MC , 500.00
+08/01/20, Novemina, Boots of Prophecy, MC , 500.00
+08/01/20, Arivas, Pauldrons of Might, MC , 125.00
+08/01/20, bank, Sulfuron Ingot, MC , 0.00
+08/01/20, disenchanted, Cenarion Vestments, MC , 625.00
+08/01/20, Imadude, Staff of Dominance, MC , 1000.00
+08/01/20, disenchanted, Nightslayer Chestpiece, MC , 625.00
+08/01/20, Helservent, Fireproof Cloak, MC , 125.00
+08/01/20, Atake, The Eye of Divinity, MC , 500.00
+08/01/20, disenchanted, Core Forged Greaves, MC , 125.00
+08/01/20, Maulpaw, Stormrage Legguards, MC , 1875.00
+08/01/20, disenchanted, Dragonstalker's Legguards, MC , 1875.00
+08/01/20, BigBanana, Perdition's Blade, MC , 6000.00
+08/01/20, Arivas, Onslaught Girdle, MC , 4000.00
+08/01/20, disenchanted, Shadowstrike, MC , 0.00
+08/06/20, Britney, Bloodfang Bracers, BWL, 1000.00
+08/06/20, Dreadpirate, The Untamed Blade, BWL, 1000.00
+08/06/20, disenchanted, Stormrage Belt, BWL, 1000.00
+08/06/20, Sigok, Bloodfang Belt, BWL, 1000.00
+08/06/20, Pathefinder, Rune of Metamorphosis, BWL, 375.00
+08/06/20, Ryzeup, Sabatons of Wrath, BWL, 250.00
+08/06/20, disenchanted, Sabatons of Wrath, BWL, 1000.00
+08/06/20, Zeno, Bracers of Arcane Accuracy, BWL, 2000.00
+08/06/20, disenchanted, Head of the Broodlord Lashlayer, BWL, 0.00
+08/06/20, Cuckinducks, Doom's Edge, BWL, 4000.00
+08/06/20, bank, Elementium Ore, BWL, 0.00
+08/06/20, Bundaa, Band of Dark Dominion, BWL, 1000.00
+08/06/20, Bundaa, Nemesis Gloves, BWL, 1000.00
+08/06/20, Libbi, Legguards of the Fallen Crusader, BWL, 3750.00
+08/06/20, disenchanted, Dragon Finger of Healing, BWL, 0.00
+08/06/20, disenchanted, Netherwind Gloves, BWL, 1000.00
+08/06/20, Manazu, Dragonbreath Hand Cannon, BWL, 1500.00
+08/06/20, Groundnpound, Styleen's Impeding Scarab, BWL, 1125.00
+08/06/20, disenchanted, Gauntlets of Wrath, BWL, 1000.00
+08/06/20, disenchanted, Pauldrons of Transcendence, BWL, 1000.00
+08/06/20, Maev, Judgement Spaulders, BWL, 250.00
+08/06/20, Dreadpirate, Girdle of the Fallen Crusader, BWL, 62.50
+08/06/20, Tynothy, Bloodfang Chestpiece, BWL, 2500.00
+08/06/20, Corcho, Pure Elementium Band, BWL, 4000.00
+08/06/20, Joeyson, Prestor's Talisman of Connivery, BWL, 4000.00
+08/06/20, disenchanted, Dragonstalker's Breastplate, BWL, 2500.00
+08/06/20, Ceneda, Head of Nefarian, BWL, 1875.00
+08/06/20, Chobbin, Bindings of Transcendence, BWL, 1000.00
+08/06/20, Helservent, Angelista's Grasp, BWL, 1000.00
+08/06/20, bank, Giantstalker's Bracers, MC , 500.00
+08/06/20, Bundaa, Choker of Enlightenment, MC , 500.00
+08/06/20, Dreadpirate, Robe of Volatile Power, MC , 2500.00
+08/06/20, Steelpanther, Cenarion Leggings, MC , 625.00
+08/06/20, Sigok, Nightslayer Pants, MC , 625.00
+08/06/20, disenchanted, Eskhandar's Right Claw, MC , 1000.00
+08/06/20, Ceneda, Nightslayer Gloves, MC , 500.00
+08/06/20, disenchanted, Sabatons of Might, MC , 500.00
+08/06/20, Dontqqme, Nightslayer Cover, MC , 625.00
+08/06/20, Manazu, Drillborer Disk, MC , 562.50
+08/06/20, Jaklar, Brutality Blade, MC , 4000.00
+08/06/20, Sokka, Bindings of the Windseeker, MC , 10000.00
+08/06/20, disenchanted, Felheart Shoulder Pads, MC , 500.00
+08/06/20, disenchanted, Cenarion Spaulders, MC , 500.00
+08/06/20, disenchanted, Cenarion Gloves, MC , 500.00
+08/06/20, Hokei, Heavy Dark Iron Ring, MC , 250.00
+08/06/20, disenchanted, Shadowstrike, MC , 10000.00
+08/06/20, disenchanted, Pauldrons of Might, MC , 500.00
+08/06/20, Ceneda, Blastershot Launcher, MC , 2000.00
+08/06/20, disenchanted, Giantstalker's Breastplate, MC , 625.00
+08/06/20, disenchanted, Robes of Prophecy, MC , 625.00
+08/06/20, Novemina, The Eye of Divinity, MC , 500.00
+08/06/20, Ryzeup, Fireguard Shoulders, MC , 125.00
+08/06/20, Dreadpirate, Core Forged Greaves, MC , 125.00
+08/06/20, bank, Giantstalker's Belt, MC , 500.00
+08/06/20, disenchanted, Dragonstalker's Legguards, MC , 1875.00
+08/06/20, Florbydorbis, Bloodfang Pants, MC , 1875.00
+08/06/20, Manazu, Essence of the Pure Flame, MC , 375.00
+08/06/20, Magicjay, Malistar's Defender, MC , 750.00
+08/08/20, Dantioch, Bindings of Transcendence, BWL, 1000.00
+08/08/20, Puzzle, Mantle of the Blackwing Cabal, BWL, 3000.00
+08/08/20, disenchanted, Bloodfang Bracers, BWL, 1000.00
+08/08/20, Caitylinn, Nemesis Belt, BWL, 1000.00
+08/08/20, disenchanted, Stormrage Belt, BWL, 1000.00
+08/08/20, disenchanted, Pendant of the Fallen Dragon, BWL, 500.00
+08/08/20, disenchanted, Black Brood Pauldrons, BWL, 250.00
+08/08/20, disenchanted, Stormrage Boots, BWL, 1000.00
+08/08/20, disenchanted, Bloodfang Boots, BWL, 1000.00
+08/08/20, Smexyropman, Head of the Broodlord Lashlayer, BWL, 0.00
+08/08/20, bank, Elementium Ore, BWL, 0.00
+08/08/20, bank, Elementium Ore, BWL, 0.00
+08/08/20, disenchanted, Firemaw's Clutch, BWL, 1000.00
+08/08/20, disenchanted, Bloodfang Gloves, BWL, 1000.00
+08/08/20, disenchanted, Band of Dark Dominion, BWL, 1000.00
+08/08/20, bank, Elementium Ore, BWL, 0.00
+08/08/20, bank, Elementium Ore, BWL, 0.00
+08/08/20, disenchanted, Band of Dark Dominion, BWL, 1000.00
+08/08/20, disenchanted, Draconic Avenger, BWL, 500.00
+08/08/20, disenchanted, Stormrage Handguards, BWL, 1000.00
+08/08/20, Targle, Emberweave Leggings, BWL, 313.00
+08/08/20, disenchanted, Bloodfang Gloves, BWL, 1000.00
+08/08/20, disenchanted, Aegis of Preservation, BWL, 375.00
+08/08/20, Ascindia, Shimmering Geta, BWL, 62.00
+08/08/20, Nocturama, Empowered Leggings, BWL, 5000.00
+08/08/20, Ragnaros, Pauldrons of Wrath, BWL, 250.00
+08/08/20, disenchanted, Netherwind Mantle, BWL, 1000.00
+08/08/20, BigBanana, Breastplate of Wrath, BWL, 625.00
+08/08/20, disenchanted, Judgement Breastplate, BWL, 2500.00
+08/08/20, Poulz, Head of Nefarian, BWL, 469.00
+08/08/20, Scrapper, Archimtiros' Ring of Reckoning, BWL, 1500.00
+08/08/20, disenchanted, Black Dragonscale, BWL, 0.00
+08/08/20, Bossmagi, Staff of the Shadow Flame, BWL, 8000.00
+08/08/20, Noblewarlord, Interlaced Shadow Jerkin, BWL, 0.00
+08/08/20, Caitylinn, Felheart Gloves, MC , 500.00
+08/08/20, Arghkettnaad, Choker of Enlightenment, MC , 125.00
+08/08/20, Chelmari, Mana Igniting Cord, MC , 2000.00
+08/08/20, Britney, Nightslayer Pants, MC , 625.00
+08/08/20, disenchanted, Giantstalker's Leggings, MC , 625.00
+08/08/20, Mariahcarry, Ring of Spell Power, MC , 1000.00
+08/08/20, disenchanted, Gloves of Prophecy, MC , 500.00
+08/08/20, Moltar, Aged Core Leather Gloves, MC , 1500.00
+08/08/20, disenchanted, Felheart Horns, MC , 625.00
+08/08/20, disenchanted, Giantstalker's Helmet, MC , 625.00
+08/08/20, disenchanted, Seal of the Archmagus, MC , 125.00
+08/08/20, disenchanted, Cenarion Spaulders, MC , 500.00
+08/08/20, disenchanted, Giantstalker's Gloves, MC , 500.00
+08/08/20, disenchanted, Felheart Slippers, MC , 500.00
+08/08/20, disenchanted, Mantle of Prophecy, MC , 500.00
+08/08/20, disenchanted, Pauldrons of Might, MC , 500.00
+08/08/20, bank, Giantstalker's Belt, MC , 500.00
+08/08/20, disenchanted, Cenarion Vestments, MC , 625.00
+08/08/20, disenchanted, Fire Runed Grimoire, MC , 250.00
+08/08/20, bank, Sulfuron Ingot, MC , 0.00
+08/08/20, disenchanted, Arcanist Robes, MC , 625.00
+08/08/20, disenchanted, Ancient Petrified Leaf, MC , 500.00
+08/08/20, Hamerhand, Band of Accuria, MC , 3000.00
+08/08/20, Chelmari, Netherwind Pants, MC , 1875.00
+08/08/20, Mariahcarry, Netherwind Pants, MC , 1875.00
+08/08/20, Moltar, Perdition's Blade, MC , 6000.00
+08/13/20, Dreadpirate, Judgement Bindings, BWL, 250.00
+08/13/20, Maev, Judgement Bindings, BWL, 250.00
+08/13/20, disenchanted, Arcane Infused Gem, BWL, 375.00
+08/13/20, Manazu, Waistband of Wrath, BWL, 1000.00
+08/13/20, Wetspells, Mind Quickening Gem, BWL, 3000.00
+08/13/20, Josie, Belt of Transcendence, BWL, 1000.00
+08/13/20, Utu, Bracers of Arcane Accuracy, BWL, 2000.00
+08/13/20, Joeyson, Dragonstalker's Greaves, BWL, 1000.00
+08/13/20, disenchanted, Sabatons of Wrath, BWL, 1000.00
+08/13/20, bank, Head of the Broodlord Lashlayer, BWL, 0.00
+08/13/20, bank, Elementium Ore, BWL, 0.00
+08/13/20, Sokka, Drake Talon Pauldrons, BWL, 2000.00
+08/13/20, Jaklar, Cloak of Firemaw, BWL, 1500.00
+08/13/20, bank, Elementium Ore, BWL, 0.00
+08/13/20, bank, Elementium Ore, BWL, 0.00
+08/13/20, bank, Elementium Ore, BWL, 0.00
+08/13/20, Dreadpirate, Draconic Avenger, BWL, 125.00
+08/13/20, Joeyson, Doom's Edge, BWL, 1000.00
+08/13/20, bank, Elementium Ore, BWL, 0.00
+08/13/20, disenchanted, Dragonstalker's Gauntlets, BWL, 1000.00
+08/13/20, disenchanted, Ebony Flame Gloves, BWL, 2000.00
+08/13/20, Mandalynn, Bloodfang Gloves, BWL, 1000.00
+08/13/20, Dreadpirate, Herald of Woe, BWL, 125.00
+08/13/20, Manazu, Elementium Threaded Cloak, BWL, 1500.00
+08/13/20, Ceneda, Bloodfang Spaulders, BWL, 1000.00
+08/13/20, Hooked, Empowered Leggings, BWL, 5000.00
+08/13/20, disenchanted, Nemesis Spaulders, BWL, 1000.00
+08/13/20, Maev, Pure Elementium Band, BWL, 4000.00
+08/13/20, Pathefinder, Head of Nefarian, BWL, 1875.00
+08/13/20, Noblewarlord, Prestor's Talisman of Connivery, BWL, 4000.00
+08/13/20, Florbydorbis, Bloodfang Chestpiece, BWL, 2500.00
+08/13/20, Pathefinder, Stormrage Chestguard, BWL, 625.00
+08/13/20, disenchanted, Felheart Gloves, MC , 500.00
+08/13/20, disenchanted, Arcanist Boots, MC , 500.00
+08/13/20, disenchanted, Giantstalker's Leggings, MC , 625.00
+08/13/20, Magicjay, Earthshaker, MC , 62.50
+08/13/20, Ceneda, Nightslayer Pants, MC , 625.00
+08/13/20, unassigned, Nightslayer Gloves, MC , 500.00
+08/13/20, Ryzeup, Sorcerous Dagger, MC , 62.50
+08/13/20, Cuckinducks, Quick Strike Ring, MC , 3000.00
+08/13/20, disenchanted, Giantstalker's Helmet, MC , 625.00
+08/13/20, disenchanted, Circlet of Prophecy, MC , 625.00
+08/13/20, Magicjay, Lawbringer Bracers, MC , 500.00
+08/13/20, disenchanted, Arcanist Mantle, MC , 500.00
+08/13/20, Dreadpirate, Lawbringer Spaulders, MC , 500.00
+08/13/20, disenchanted, Arcanist Gloves, MC , 500.00
+08/13/20, Ceneda, Nightslayer Boots, MC , 500.00
+08/13/20, disenchanted, Belt of Might, MC , 500.00
+08/13/20, disenchanted, Pauldrons of Might, MC , 500.00
+08/13/20, disenchanted, Shadowstrike, MC , 10000.00
+08/13/20, disenchanted, Cenarion Vestments, MC , 625.00
+08/13/20, disenchanted, Felheart Robes, MC , 625.00
+08/13/20, bank, Sulfuron Ingot, MC , 0.00
+08/13/20, disenchanted, Blastershot Launcher, MC , 2000.00
+08/13/20, Dreadpirate, Wristguards of True Flight, MC , 250.00
+08/13/20, Dontqqme, Core Hound Tooth, MC , 3000.00
+08/13/20, Manithree, The Eye of Divinity, MC , 500.00
+08/13/20, Sokka, Essence of the Firelord, MC , 0.00
+08/13/20, disenchanted, Malistar's Defender, MC , 750.00
+08/13/20, Dontqqme, Perdition's Blade, MC , 6000.00
+08/13/20, Quack, Leggings of Transcendence, MC , 1875.00
+08/13/20, disenchanted, Nemesis Leggings, MC , 1875.00
+08/15/20, disenchanted, Stormrage Bracers, BWL, 1000.00
+08/15/20, Kantmiss, Arcane Infused Gem, BWL, 375.00
+08/15/20, disenchanted, Judgement Bindings, BWL, 1000.00
+08/15/20, disenchanted, Rune of Metamorphosis, BWL, 375.00
+08/15/20, Highfalutin, Belt of Transcendence, BWL, 1000.00
+08/15/20, Smexyropman, Waistband of Wrath, BWL, 275.00
+08/15/20, Highfalutin, Boots of Transcendence, BWL, 1000.00
+08/15/20, disenchanted, Bracers of Arcane Accuracy, BWL, 2000.00
+08/15/20, Kantmiss, Dragonstalker's Greaves, BWL, 1000.00
+08/15/20, Excellent, Head of the Broodlord Lashlayer, BWL, 0.00
+08/15/20, bank, Elementium Ore, BWL, 0.00
+08/15/20, Zappem, Rejuvenating Gem, BWL, 9000.00
+08/15/20, disenchanted, Claw of the Black Drake, BWL, 2000.00
+08/15/20, Corcho, Essence Gatherer, BWL, 2000.00
+08/15/20, Highfalutin, Band of Dark Dominion, BWL, 275.00
+08/15/20, bank, Elementium Ore, BWL, 0.00
+08/15/20, bank, Elementium Ore, BWL, 0.00
+08/15/20, bank, Elementium Ore, BWL, 0.00
+08/15/20, bank, Elementium Ore, BWL, 0.00
+08/15/20, Highfalutin, Aegis of Preservation, BWL, 375.00
+08/15/20, Puzzle, Netherwind Gloves, BWL, 1000.00
+08/15/20, Kantmiss, Dragonstalker's Gauntlets, BWL, 1000.00
+08/15/20, disenchanted, Styleen's Impeding Scarab, BWL, 4500.00
+08/15/20, Slappybagz, Bloodfang Spaulders, BWL, 1000.00
+08/15/20, Smexyropman, Pauldrons of Wrath, BWL, 275.00
+08/15/20, disenchanted, Taut Dragonhide Gloves, BWL, 0.00
+08/15/20, disenchanted, Taut Dragonhide Shoulderpads, BWL, 2000.00
+08/15/20, Catstevens, Robes of Transcendence, BWL, 2500.00
+08/15/20, disenchanted, Stormrage Chestguard, BWL, 625.00
+08/15/20, disenchanted, Head of Nefarian, BWL, 1875.00
+08/15/20, Hokei, Archimtiros' Ring of Reckoning, BWL, 375.00
+08/15/20, disenchanted, Therazane's Link, BWL, 250.00
+08/15/20, disenchanted, Lawbringer Boots, MC , 500.00
+08/15/20, Smexyropman, Gauntlets of Might, MC , 125.00
+08/15/20, disenchanted, Cenarion Leggings, MC , 625.00
+08/15/20, disenchanted, Eskhandar's Right Claw, MC , 1000.00
+08/15/20, disenchanted, Nightslayer Pants, MC , 625.00
+08/15/20, Highfalutin, Gloves of Prophecy, MC , 500.00
+08/15/20, disenchanted, Giantstalker's Boots, MC , 500.00
+08/15/20, Smexyropman, Drillborer Disk, MC , 562.50
+08/15/20, Stonemove, Talisman of Ephemeral Power, MC , 3000.00
+08/15/20, disenchanted, Gutgore Ripper, MC , 1500.00
+08/15/20, Mariahcarry, Seal of the Archmagus, MC , 125.00
+08/15/20, disenchanted, Cenarion Spaulders, MC , 500.00
+08/15/20, disenchanted, Cenarion Gloves, MC , 500.00
+08/15/20, disenchanted, Shadowstrike, MC , 10000.00
+08/15/20, Hokei, Wristguards of Stability, MC , 250.00
+08/15/20, disenchanted, Nightslayer Chestpiece, MC , 625.00
+08/15/20, disenchanted, Breastplate of Might, MC , 625.00
+08/15/20, yungmage, Staff of Dominance, MC , 1000.00
+08/15/20, disenchanted, Wristguards of True Flight, MC , 1000.00
+08/15/20, disenchanted, Gloves of the Hypnotic Flame, MC , 500.00
+08/15/20, disenchanted, The Eye of Divinity, MC , 500.00
+08/15/20, disenchanted, Felheart Slippers, MC , 500.00
+08/15/20, yungmage, Netherwind Pants, MC , 1875.00
+08/15/20, Smexyropman, Legplates of Wrath, MC , 468.75
+08/15/20, Dbcooper, Perdition's Blade, MC , 6000.00
+08/15/20, Kantmiss, Cloak of the Shrouded Mists, MC , 2000.00
+08/18/20, Ascindia, Leggings of Immersion, AQ40, 390.75
+08/18/20, disenchanted, Boots of the Unwavering Will, AQ40, 1250.00
+08/18/20, Mariahcarry, Necklace of Purity, AQ40, 313.00
+08/18/20, Hokei, Creeping Vine Helm, AQ40, 3125.00
+08/18/20, Morhion, Scaled Sand Reaver Leggings, AQ40, 4688.00
+08/18/20, disenchanted, Pauldrons of the Unrelenting, AQ40, 625.00
+08/18/20, Ragnaros, Qiraji Bindings of Command, AQ40, 2500.00
+08/18/20, Piggret, Qiraji Bindings of Dominance, AQ40, 2500.00
+08/18/20, Cornpops, Hive Defiler Wristguards, AQ40, 3750.00
+08/18/20, Ragerv, Angelista's Touch, AQ40, 312.50
+08/18/20, Mcdoobler, Angelista's Charm, AQ40, 2500.00
+08/19/20, disenchanted, Boots of the Unwavering Will, AQ40, 1250.00
+08/19/20, disenchanted, Barrage Shoulders, AQ40, 313.00
+08/19/20, Dangarr, Recomposed Boots, AQ40, 313.00
+08/19/20, Tessberra, Robes of the Battleguard, AQ40, 781.00
+08/19/20, Arivas, Scaled Sand Reaver Leggings, AQ40, 4688.00
+08/19/20, Caitylinn, Cloak of Untold Secrets, AQ40, 0.00
+08/19/20, Hokei, Wasphide Gauntlets, AQ40, 1250.00
+08/19/20, Garrius, Qiraji Bindings of Dominance, AQ40, 2500.00
+08/19/20, Cornpops, Qiraji Bindings of Command, AQ40, 2500.00
+08/19/20, Eno, Vek'lor's Diadem, AQ40, 3125.00
+08/19/20, Tessberra, Boots of Epiphany, AQ40, 1250.00
+08/19/20, Dangarr, Vek'nilash's Circlet, AQ40, 3125.00
+08/19/20, Piggret, Amulet of Vek'nilash, AQ40, 5000.00
+08/19/20, unassigned, Alcor's Sunrazor, AQ40, 0.00
+08/19/20, Dangarr, Carapace of the Old God, AQ40, 3125.00
+08/19/20, Targle, Husk of the Old God, AQ40, 3125.00
+08/19/20, Warning, Eye of C'Thun, AQ40, 5000.00
+08/19/20, Excellent, Death's Sting, AQ40, 10000.00
+08/19/20, IROC, Scepter of the False Prophet, AQ40, 12500.00
+08/19/20, Arghkettnaad, Angelista's Charm, AQ40, 2500.00
+08/19/20, Piggret, Robes of Triumvirate, AQ40, 0.00
+08/20/20, Moncholy, Ring of Swarming Thought, AQ40, 625.00
+08/20/20, Hamerhand, Pendant of the Qiraji Guardian, AQ40, 1250.00
+08/20/20, Dreadpirate, Ternary Mantle, AQ40, 1250.00
+08/20/20, Sokkan, Gloves of Ebru, AQ40, 1250.00
+08/20/20, Poulz, Legplates of Blazing Light, AQ40, 6250.00
+08/20/20, Pathefinder, Thick Qirajihide Belt, AQ40, 2500.00
+08/20/20, Libbi, Libram of Grace, AQ40, 1250.00
+08/20/20, Pathefinder, Mantle of Wicked Revenge, AQ40, 625.00
+08/20/20, Arathena, Qiraji Bindings of Command, AQ40, 2500.00
+08/20/20, Quack, Gloves of the Messiah, AQ40, 1250.00
+08/20/20, Dotterama, Qiraji Bindings of Dominance, AQ40, 2500.00
+08/22/20, Ragerv, Larvae of the Great Worm, AQ40, 5000.00
+08/22/20, unassigned, Skin of the Great Sandworm, AQ40, 3125.00
+08/22/20, Kiteme, Imperial Qiraji Armaments, AQ40, 8750.00
+08/22/20, Scrapper, Ouro's Intact Hide, AQ40, 4688.00
+08/22/20, unassigned, The Black Book, BWL, 375.00
+08/22/20, unassigned, Netherwind Bindings, BWL, 1000.00
+08/22/20, Switter, Bloodfang Bracers, BWL, 1000.00
+08/22/20, Catstevens, Belt of Transcendence, BWL, 1000.00
+08/22/20, disenchanted, Dragonstalker's Belt, BWL, 1000.00
+08/22/20, disenchanted, Rune of Metamorphosis, BWL, 375.00
+08/22/20, Switter, Bloodfang Boots, BWL, 1000.00
+08/22/20, Bellend, Bracers of Arcane Accuracy, BWL, 500.00
+08/22/20, Smexyropman, Sabatons of Wrath, BWL, 250.00
+08/22/20, Astranis, Head of the Broodlord Lashlayer, BWL, 0.00
+08/22/20, Catstevens, Handguards of Transcendence, BWL, 1000.00
+08/22/20, Dangarr, Black Ash Robe, BWL, 0.00
+08/22/20, bank, Elementium Ore, BWL, 0.00
+08/22/20, Ragnaros, Dragonbreath Hand Cannon, BWL, 1500.00
+08/22/20, disenchanted, Nemesis Gloves, BWL, 1000.00
+08/22/20, BigBanana, Emberweave Leggings, BWL, 0.00
+08/22/20, Smexyropman, Gauntlets of Wrath, BWL, 250.00
+08/22/20, Poulz, Judgement Spaulders, BWL, 1000.00
+08/22/20, disenchanted, Dragonstalker's Spaulders, BWL, 1000.00
+08/22/20, disenchanted, Shimmering Geta, BWL, 250.00
+08/22/20, Bellend, Angelista's Grasp, BWL, 250.00
+08/22/20, disenchanted, Bloodfang Chestpiece, BWL, 2500.00
+08/22/20, Ascindia, Stormrage Chestguard, BWL, 625.00
+08/22/20, Cornpops, Crul'shorukh, Edge of Chaos, BWL, 8000.00
+08/22/20, Wilzea, Ashkandi, Greatsword of the Brotherhood, BWL, 1000.00
+08/22/20, Ragnaros, Head of Nefarian, BWL, 1875.00
